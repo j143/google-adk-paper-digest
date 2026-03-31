@@ -1,0 +1,12 @@
+# Core ADK runtime
+google-adk>=0.1.0
+
+# LLM routing – lets google-adk talk to Ollama via the OpenAI-compatible endpoint
+litellm>=1.35.0
+
+# PDF extraction
+PyPDF2>=3.0.0
+
+# HTML extraction (URL mode)
+beautifulsoup4>=4.12.0
+requests>=2.31.0
